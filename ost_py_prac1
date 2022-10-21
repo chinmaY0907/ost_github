@@ -1,0 +1,4 @@
+count = int(input("Enter number: "))
+while (count < 10):
+    count = count + 1
+    print("Hehe boii")
